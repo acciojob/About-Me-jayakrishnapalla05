@@ -1,1 +1,36 @@
-
+.container{
+	background-color:white;
+	display:flex;
+	box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+	margin-top:20px;
+}
+.left{
+	display:flex;
+	margin-top:15px;
+}
+.profile img{
+	width:100px;
+	height:100px;
+}
+.leftbox{
+	margin-bottom:20px;
+	margin-left:10px;
+	padding-right:100px;
+}
+.details{
+	font-size:13px;
+	margin-left:10px;
+}
+.skills{
+	margin-top:10px;
+	font-size:12px;
+}
+.underline{
+	margin-top: 5px;
+	width: 25%;
+	height: 3px;
+	background-color: aqua;
+}
+.right-top{
+	margin-top:40px;
+}
